@@ -28,7 +28,7 @@ This Streamlit application provides a comprehensive tool for performing cohort a
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/cohort-analysis-app.git
+   git clone [https://github.com/Nagendra2k00/Cohort-Analysis-.git]
    cd cohort-analysis-app
    ```
 
