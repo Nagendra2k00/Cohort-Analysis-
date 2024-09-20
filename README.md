@@ -71,11 +71,16 @@ Ensure your CSV file includes the following columns:
 - [Seaborn](https://seaborn.pydata.org/) & [Matplotlib](https://matplotlib.org/): For static visualizations
 - [Plotly Express](https://plotly.com/python/plotly-express/): For interactive plots
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! if you want to contribute.
+
 ## 👤 Author
 
-Nagendra Kumar K S
+**Nagendra Kumar K S**
 
-## 🙏 Acknowledgments
+- GitHub: [@Nagendra Kumar K S](https://github.com/Nagendra2k00)
+- LinkedIn: [@Nagendra Kumar K S](https://linkedin.com/in/nagendrakumarks)
 
-- Streamlit community for their excellent documentation and examples
-- All contributors and users of this application
+
+Don't forget to star ⭐ this repository if you found it helpful!
